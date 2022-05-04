@@ -1,0 +1,1 @@
+{"id":"13b9a845-4098-4d85-b036-80723cfda27a","space":22300,"runtime":"python3.9","name":"socrata_explorer","path":"zwt3qz","project":"b08wso2z","account":"144798365827","region":"us-east-1","deps":["fastapi","sodapy"],"envs":null,"public":true,"log_level":"debug","cron":""}
